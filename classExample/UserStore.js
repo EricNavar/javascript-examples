@@ -30,7 +30,4 @@ class UserStore {
     // }
 }
   
-const square = new UserStore('Saul', 10, 'tampa');
-console.log(square.name); // 100
-
 exports.UserStore = UserStore;
