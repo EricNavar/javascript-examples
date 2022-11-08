@@ -1,32 +1,20 @@
 class UserStore {
-    constructor(id, name, city) {
+    constructor(id, firstName, lastName) {
         this.id = id;
-        this.name = name;
-        this.city = city;
+        this.firstName = firstName;
+        this.lastName = lastName;
     }
 
-    // get id() {
-    //     return this.id;
-    // }
+    get fullName() {
+        return this.firstName + " " + this.lastName;
+    }
 
     // get name() {
     //     return this.name;
     // }
 
-    // get city() {
-    //     return this.city;
-    // }
-
-    // set id(id) {
-    //     this.id = id;
-    // }
-
     // set name(name) {
     //     this.name = name;
-    // }
-
-    // set city(city) {
-    //     this.city = city;
     // }
 }
   
