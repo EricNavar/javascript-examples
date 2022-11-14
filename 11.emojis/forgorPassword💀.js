@@ -1,5 +1,5 @@
 const forgorPassword = () => {
-    console.log("Hit the griddy ??????");
+    console.log("Hit the griddy");
 }
 
 forgorPassword();
