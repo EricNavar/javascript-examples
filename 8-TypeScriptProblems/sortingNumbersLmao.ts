@@ -1,11 +1,11 @@
-let prices: number[] = [9, 10, 10000, 2, 600000000, 30, 20, 400, 230, 600, 700];
+let costs: number[] = [9, 10, 1000, 2, 6000];
 
-prices = prices.sort();
+costs = costs.sort();
 
-console.log(prices);
+console.log(costs);
 
 //typescript is still javascript under the hood so it will pull off shit like this
 
 /*
-ts-node 9-TypeScriptProblems/sortingNumbersLmao.ts
+ts-node 8-TypeScriptProblems/sortingNumbersLmao.ts
 */
