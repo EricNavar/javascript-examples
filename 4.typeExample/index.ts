@@ -11,3 +11,7 @@ const saul: Profile = {
     phone: '(505) 503-4455',
     address: '9800 Montgomery Blvd NE, Albuquerque',
 };
+
+function greeting(person: Profile) {
+    console.log(person.name);
+}
