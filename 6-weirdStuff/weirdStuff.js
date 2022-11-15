@@ -28,5 +28,6 @@ console.log('person.name =', person.name);//has never and will never be defined
 
 {} + [] === 0;
 
-
-// node 6.weirdStuff/weirdStuff.js
+/*
+node 6.weirdStuff/weirdStuff.js
+*/

@@ -21,3 +21,7 @@ const saul2: Profile2 = {
         state: 'New Mexico',
     }
 };
+
+/*
+node 5-typeExample2/index.ts
+*/

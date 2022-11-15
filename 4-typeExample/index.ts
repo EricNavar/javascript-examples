@@ -15,3 +15,7 @@ const saul: Profile = {
 function greeting(person: Profile) {
     console.log(person.name);
 }
+
+/*
+node 4-typeExample/index.ts
+*/

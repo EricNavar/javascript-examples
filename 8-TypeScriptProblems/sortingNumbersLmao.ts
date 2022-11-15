@@ -6,5 +6,6 @@ console.log(prices);
 
 //typescript is still javascript under the hood so it will pull off shit like this
 
-
-// ts-node 9-TypeScriptProblems/sortingNumbersLmao.ts
+/*
+ts-node 9-TypeScriptProblems/sortingNumbersLmao.ts
+*/

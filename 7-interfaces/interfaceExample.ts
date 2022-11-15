@@ -21,5 +21,6 @@ const legoStarWars: VideoGame = {
 printGame(wizard101);
 printGame(legoStarWars);
 
-
-// ts-node 7-interfaces/interfaceExample.ts
+/*
+ts-node 7-interfaces/interfaceExample.ts
+*/

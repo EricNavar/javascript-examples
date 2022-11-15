@@ -6,4 +6,6 @@ const test = "24";
 
 isNum(test);
 
-// ts-node 9-TypeScriptProblems/isNumber.ts
+/*
+ts-node 9-TypeScriptProblems/isNumber.ts
+*/

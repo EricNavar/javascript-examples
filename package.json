@@ -1,0 +1,22 @@
+{
+  "name": "javascript-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricNavar/javascript-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricNavar/javascript-examples/issues"
+  },
+  "homepage": "https://github.com/EricNavar/javascript-examples#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  }
+}
