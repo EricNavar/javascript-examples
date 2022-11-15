@@ -6,3 +6,5 @@ const welcomeMessage = () => {
 };
 
 welcomeMessage();
+
+// node 3-classExample/welcomeMessage.js

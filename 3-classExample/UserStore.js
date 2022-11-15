@@ -8,14 +8,6 @@ class UserStore {
     get fullName() {
         return this.firstName + " " + this.lastName;
     }
-
-    // get name() {
-    //     return this.name;
-    // }
-
-    // set name(name) {
-    //     this.name = name;
-    // }
 }
   
 exports.UserStore = UserStore;
